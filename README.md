@@ -1,6 +1,6 @@
 ## Cha Broncano
 
-👩‍💻 Mobile Developer (iOS and Android)
+👩‍💻 Mobile Developer
 
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
